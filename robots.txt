@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sridhar-deepak.github.io/sitemap.xml
